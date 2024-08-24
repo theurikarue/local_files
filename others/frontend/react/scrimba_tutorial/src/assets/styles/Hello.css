@@ -1,0 +1,21 @@
+.body{
+    background-color: black;
+}
+.logo{
+    display:flex;
+}
+.image{
+    width:50px;
+}
+.nav{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    background-color: #21222A;
+}
+
+h4,h3{
+    color:white;
+    margin:0;
+    padding:10px;
+}
