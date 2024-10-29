@@ -1,0 +1,77 @@
+[31mMP3 Files Found in System:[0m
+
+[33mFile: /home/theuri/.local/share/Trash/files/usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/error.mp3[0m
+[32mSize: 0.04 MB[0m
+
+[38;5;54mFile: /home/theuri/.local/share/Trash/files/usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/chatResponseReceived1.mp3[0m
+[35mSize: 0.03 MB[0m
+
+[38;5;214mFile: /home/theuri/.local/share/Trash/files/usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/progress.mp3[0m
+[33mSize: 0.03 MB[0m
+
+[34mFile: /home/theuri/.local/share/Trash/files/usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/terminalBell.mp3[0m
+[38;5;54mSize: 0.03 MB[0m
+
+[31mFile: /home/theuri/.local/share/Trash/files/usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/save.mp3[0m
+[38;5;214mSize: 0.03 MB[0m
+
+[32mFile: /home/theuri/.local/share/Trash/files/usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/break.mp3[0m
+[34mSize: 0.04 MB[0m
+
+[35mFile: /home/theuri/.local/share/Trash/files/usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/chatResponseReceived4.mp3[0m
+[31mSize: 0.03 MB[0m
+
+[33mFile: /home/theuri/.local/share/Trash/files/usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/success.mp3[0m
+[32mSize: 0.02 MB[0m
+
+[38;5;54mFile: /home/theuri/.local/share/Trash/files/usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/diffLineModified.mp3[0m
+[35mSize: 0.04 MB[0m
+
+[38;5;214mFile: /home/theuri/.local/share/Trash/files/usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/format.mp3[0m
+[33mSize: 0.04 MB[0m
+
+[34mFile: /home/theuri/.local/share/Trash/files/usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/diffLineDeleted.mp3[0m
+[38;5;54mSize: 0.04 MB[0m
+
+[31mFile: /home/theuri/.local/share/Trash/files/usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/clear.mp3[0m
+[38;5;214mSize: 0.03 MB[0m
+
+[32mFile: /home/theuri/.local/share/Trash/files/usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/taskFailed.mp3[0m
+[34mSize: 0.07 MB[0m
+
+[35mFile: /home/theuri/.local/share/Trash/files/usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/chatResponseReceived3.mp3[0m
+[31mSize: 0.03 MB[0m
+
+[33mFile: /home/theuri/.local/share/Trash/files/usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/quickFixes.mp3[0m
+[32mSize: 0.04 MB[0m
+
+[38;5;54mFile: /home/theuri/.local/share/Trash/files/usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/voiceRecordingStopped.mp3[0m
+[35mSize: 0.02 MB[0m
+
+[38;5;214mFile: /home/theuri/.local/share/Trash/files/usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/warning.mp3[0m
+[33mSize: 0.04 MB[0m
+
+[34mFile: /home/theuri/.local/share/Trash/files/usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/foldedAreas.mp3[0m
+[38;5;54mSize: 0.04 MB[0m
+
+[31mFile: /home/theuri/.local/share/Trash/files/usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/chatResponseReceived2.mp3[0m
+[38;5;214mSize: 0.03 MB[0m
+
+[32mFile: /home/theuri/.local/share/Trash/files/usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/voiceRecordingStarted.mp3[0m
+[34mSize: 0.03 MB[0m
+
+[35mFile: /home/theuri/.local/share/Trash/files/usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/chatRequestSent.mp3[0m
+[31mSize: 0.04 MB[0m
+
+[33mFile: /home/theuri/.local/share/Trash/files/usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/diffLineInserted.mp3[0m
+[32mSize: 0.04 MB[0m
+
+[38;5;54mFile: /home/theuri/.local/share/Trash/files/usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/taskCompleted.mp3[0m
+[35mSize: 0.06 MB[0m
+
+[38;5;214mFile: /home/theuri/Documents/codes/ADTs/myenv/lib/python3.12/site-packages/pygame/examples/data/house_lo.mp3[0m
+[33mSize: 0.11 MB[0m
+
+[34mFile: /home/theuri/Documents/codes/ADTs/myenv/lib64/python3.12/site-packages/pygame/examples/data/house_lo.mp3[0m
+[38;5;54mSize: 0.11 MB[0m
+
