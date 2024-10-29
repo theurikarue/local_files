@@ -1,77 +1,281 @@
-MP3 Files Found in System:
-
-File: /home/theuri/.local/share/Trash/files/usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/error.mp3
-Size: 0.04 MB
-
-File: /home/theuri/.local/share/Trash/files/usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/chatResponseReceived1.mp3
-Size: 0.03 MB
-
-File: /home/theuri/.local/share/Trash/files/usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/progress.mp3
-Size: 0.03 MB
-
-File: /home/theuri/.local/share/Trash/files/usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/terminalBell.mp3
-Size: 0.03 MB
-
-File: /home/theuri/.local/share/Trash/files/usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/save.mp3
-Size: 0.03 MB
-
-File: /home/theuri/.local/share/Trash/files/usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/break.mp3
-Size: 0.04 MB
-
-File: /home/theuri/.local/share/Trash/files/usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/chatResponseReceived4.mp3
-Size: 0.03 MB
-
-File: /home/theuri/.local/share/Trash/files/usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/success.mp3
-Size: 0.02 MB
-
-File: /home/theuri/.local/share/Trash/files/usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/diffLineModified.mp3
-Size: 0.04 MB
-
-File: /home/theuri/.local/share/Trash/files/usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/format.mp3
-Size: 0.04 MB
-
-File: /home/theuri/.local/share/Trash/files/usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/diffLineDeleted.mp3
-Size: 0.04 MB
-
-File: /home/theuri/.local/share/Trash/files/usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/clear.mp3
-Size: 0.03 MB
-
-File: /home/theuri/.local/share/Trash/files/usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/taskFailed.mp3
-Size: 0.07 MB
-
-File: /home/theuri/.local/share/Trash/files/usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/chatResponseReceived3.mp3
-Size: 0.03 MB
-
-File: /home/theuri/.local/share/Trash/files/usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/quickFixes.mp3
-Size: 0.04 MB
-
-File: /home/theuri/.local/share/Trash/files/usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/voiceRecordingStopped.mp3
-Size: 0.02 MB
-
-File: /home/theuri/.local/share/Trash/files/usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/warning.mp3
-Size: 0.04 MB
-
-File: /home/theuri/.local/share/Trash/files/usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/foldedAreas.mp3
-Size: 0.04 MB
-
-File: /home/theuri/.local/share/Trash/files/usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/chatResponseReceived2.mp3
-Size: 0.03 MB
-
-File: /home/theuri/.local/share/Trash/files/usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/voiceRecordingStarted.mp3
-Size: 0.03 MB
-
-File: /home/theuri/.local/share/Trash/files/usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/chatRequestSent.mp3
-Size: 0.04 MB
-
-File: /home/theuri/.local/share/Trash/files/usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/diffLineInserted.mp3
-Size: 0.04 MB
-
-File: /home/theuri/.local/share/Trash/files/usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/taskCompleted.mp3
-Size: 0.06 MB
-
-File: /home/theuri/Documents/codes/ADTs/myenv/lib/python3.12/site-packages/pygame/examples/data/house_lo.mp3
-Size: 0.11 MB
-
-File: /home/theuri/Documents/codes/ADTs/myenv/lib64/python3.12/site-packages/pygame/examples/data/house_lo.mp3
-Size: 0.11 MB
-
+File: //home/theuri/Documents/local/codes/ADTs/myenv/lib/python3.12/site-packages/pygame/examples/data/house_lo.mp3 (0.11 MB)
+File: //mnt/windows/Program Files/WindowsApps/Microsoft.GamingApp_2410.1001.55.0_x64__8wekyb3d8bbwe/AchievementsPublicAssets/Notifications/AchievementUnlocked.mp3 (0.01 MB)
+File: //mnt/windows/Program Files/WindowsApps/Microsoft.GamingApp_2410.1001.55.0_x64__8wekyb3d8bbwe/Assets/Sounds/Group_Voice_Entry_Me_SetA_v1.mp3 (0.06 MB)
+File: //mnt/windows/Program Files/WindowsApps/Microsoft.GamingApp_2410.1001.55.0_x64__8wekyb3d8bbwe/Assets/Sounds/Group_Voice_Entry_Others_SetA_v1.mp3 (0.06 MB)
+File: //mnt/windows/Program Files/WindowsApps/Microsoft.GamingApp_2410.1001.55.0_x64__8wekyb3d8bbwe/Assets/Sounds/Group_Voice_Exit_Me_SetA_v1.mp3 (0.06 MB)
+File: //mnt/windows/Program Files/WindowsApps/Microsoft.GamingApp_2410.1001.55.0_x64__8wekyb3d8bbwe/Assets/Sounds/Group_Voice_Exit_Others_SetA_v1.mp3 (0.06 MB)
+File: //mnt/windows/Program Files/WindowsApps/Microsoft.GamingApp_2410.1001.55.0_x64__8wekyb3d8bbwe/Assets/Sounds/Message.mp3 (0.05 MB)
+File: //mnt/windows/Program Files/WindowsApps/Microsoft.GamingApp_2410.1001.55.0_x64__8wekyb3d8bbwe/MessagingPublicAssets/Notifications/Message_Notification_SetA_v14_v2.mp3 (0.05 MB)
+File: //mnt/windows/Program Files/WindowsApps/Microsoft.GamingApp_2410.1001.55.0_x64__8wekyb3d8bbwe/PartyPublicAssets/Notifications/Group_Voice_Entry_Others_SetA_v1.mp3 (0.06 MB)
+File: //mnt/windows/Program Files/WindowsApps/Microsoft.GamingApp_2410.1001.55.0_x64__8wekyb3d8bbwe/PartyPublicAssets/Notifications/Group_Voice_Exit_Others_SetA_v1.mp3 (0.06 MB)
+File: //mnt/windows/Program Files/WindowsApps/Microsoft.GamingApp_2410.1001.55.0_x64__8wekyb3d8bbwe/PartyPublicAssets/Notifications/Message_Notification_SetA_v14_v2.mp3 (0.05 MB)
+File: //mnt/windows/Program Files/WindowsApps/Microsoft.GamingApp_2410.1001.55.0_x64__8wekyb3d8bbwe/SocialPublicAssets/Notifications/Message_Notification_SetA_v14_v2.mp3 (0.05 MB)
+File: //mnt/windows/Program Files/WindowsApps/MicrosoftTeams_24256.2503.3176.1759_x64__8wekyb3d8bbwe/Audio/bop.mp3 (0.17 MB)
+File: //mnt/windows/Program Files/WindowsApps/MicrosoftTeams_24256.2503.3176.1759_x64__8wekyb3d8bbwe/Audio/bounce.mp3 (0.11 MB)
+File: //mnt/windows/Program Files/WindowsApps/MicrosoftTeams_24256.2503.3176.1759_x64__8wekyb3d8bbwe/Audio/bubbles.mp3 (0.15 MB)
+File: //mnt/windows/Program Files/WindowsApps/MicrosoftTeams_24256.2503.3176.1759_x64__8wekyb3d8bbwe/Audio/bubblesloud.mp3 (0.50 MB)
+File: //mnt/windows/Program Files/WindowsApps/MicrosoftTeams_24256.2503.3176.1759_x64__8wekyb3d8bbwe/Audio/dripdrop.mp3 (0.13 MB)
+File: //mnt/windows/Program Files/WindowsApps/MicrosoftTeams_24256.2503.3176.1759_x64__8wekyb3d8bbwe/Audio/eureka.mp3 (0.23 MB)
+File: //mnt/windows/Program Files/WindowsApps/MicrosoftTeams_24256.2503.3176.1759_x64__8wekyb3d8bbwe/Audio/flutter.mp3 (0.15 MB)
+File: //mnt/windows/Program Files/WindowsApps/MicrosoftTeams_24256.2503.3176.1759_x64__8wekyb3d8bbwe/Audio/highscore.mp3 (0.11 MB)
+File: //mnt/windows/Program Files/WindowsApps/MicrosoftTeams_24256.2503.3176.1759_x64__8wekyb3d8bbwe/Audio/meetup_ring.mp3 (0.04 MB)
+File: //mnt/windows/Program Files/WindowsApps/MicrosoftTeams_24256.2503.3176.1759_x64__8wekyb3d8bbwe/Audio/nextlevel.mp3 (0.25 MB)
+File: //mnt/windows/Program Files/WindowsApps/MicrosoftTeams_24256.2503.3176.1759_x64__8wekyb3d8bbwe/Audio/plink.mp3 (0.13 MB)
+File: //mnt/windows/Program Files/WindowsApps/MicrosoftTeams_24256.2503.3176.1759_x64__8wekyb3d8bbwe/Audio/remix.mp3 (0.28 MB)
+File: //mnt/windows/Program Files/WindowsApps/MicrosoftTeams_24256.2503.3176.1759_x64__8wekyb3d8bbwe/Audio/ring.mp3 (0.29 MB)
+File: //mnt/windows/Program Files/WindowsApps/MicrosoftTeams_24256.2503.3176.1759_x64__8wekyb3d8bbwe/Audio/ringring.mp3 (0.19 MB)
+File: //mnt/windows/Program Files/WindowsApps/MicrosoftTeams_24256.2503.3176.1759_x64__8wekyb3d8bbwe/Audio/ripple.mp3 (0.17 MB)
+File: //mnt/windows/Program Files/WindowsApps/MicrosoftTeams_24256.2503.3176.1759_x64__8wekyb3d8bbwe/Audio/screenshare_ring.mp3 (0.05 MB)
+File: //mnt/windows/Program Files/WindowsApps/MicrosoftTeams_24256.2503.3176.1759_x64__8wekyb3d8bbwe/Audio/spacetime.mp3 (0.33 MB)
+File: //mnt/windows/Program Files/WindowsApps/MicrosoftTeams_24256.2503.3176.1759_x64__8wekyb3d8bbwe/Audio/teams_meet_up_reminder.mp3 (0.05 MB)
+File: //mnt/windows/Program Files/WindowsApps/MicrosoftTeams_24256.2503.3176.1759_x64__8wekyb3d8bbwe/Audio/teams_notification.mp3 (0.04 MB)
+File: //mnt/windows/Program Files/WindowsApps/MicrosoftTeams_24256.2503.3176.1759_x64__8wekyb3d8bbwe/Audio/wishgranted.mp3 (0.23 MB)
+File: //mnt/windows/Program Files/WindowsApps/MicrosoftTeams_24256.2503.3176.1759_x64__8wekyb3d8bbwe/Audio/wobble.mp3 (0.23 MB)
+File: //mnt/windows/Users/Theuri/AppData/Local/Programs/Microsoft VS Code/resources/app/out/vs/platform/accessibilitySignal/browser/media/break.mp3 (0.04 MB)
+File: //mnt/windows/Users/Theuri/AppData/Local/Programs/Microsoft VS Code/resources/app/out/vs/platform/accessibilitySignal/browser/media/chatRequestSent.mp3 (0.04 MB)
+File: //mnt/windows/Users/Theuri/AppData/Local/Programs/Microsoft VS Code/resources/app/out/vs/platform/accessibilitySignal/browser/media/chatResponseReceived1.mp3 (0.03 MB)
+File: //mnt/windows/Users/Theuri/AppData/Local/Programs/Microsoft VS Code/resources/app/out/vs/platform/accessibilitySignal/browser/media/chatResponseReceived2.mp3 (0.03 MB)
+File: //mnt/windows/Users/Theuri/AppData/Local/Programs/Microsoft VS Code/resources/app/out/vs/platform/accessibilitySignal/browser/media/chatResponseReceived3.mp3 (0.03 MB)
+File: //mnt/windows/Users/Theuri/AppData/Local/Programs/Microsoft VS Code/resources/app/out/vs/platform/accessibilitySignal/browser/media/chatResponseReceived4.mp3 (0.03 MB)
+File: //mnt/windows/Users/Theuri/AppData/Local/Programs/Microsoft VS Code/resources/app/out/vs/platform/accessibilitySignal/browser/media/clear.mp3 (0.03 MB)
+File: //mnt/windows/Users/Theuri/AppData/Local/Programs/Microsoft VS Code/resources/app/out/vs/platform/accessibilitySignal/browser/media/diffLineDeleted.mp3 (0.04 MB)
+File: //mnt/windows/Users/Theuri/AppData/Local/Programs/Microsoft VS Code/resources/app/out/vs/platform/accessibilitySignal/browser/media/diffLineInserted.mp3 (0.04 MB)
+File: //mnt/windows/Users/Theuri/AppData/Local/Programs/Microsoft VS Code/resources/app/out/vs/platform/accessibilitySignal/browser/media/diffLineModified.mp3 (0.04 MB)
+File: //mnt/windows/Users/Theuri/AppData/Local/Programs/Microsoft VS Code/resources/app/out/vs/platform/accessibilitySignal/browser/media/error.mp3 (0.04 MB)
+File: //mnt/windows/Users/Theuri/AppData/Local/Programs/Microsoft VS Code/resources/app/out/vs/platform/accessibilitySignal/browser/media/foldedAreas.mp3 (0.04 MB)
+File: //mnt/windows/Users/Theuri/AppData/Local/Programs/Microsoft VS Code/resources/app/out/vs/platform/accessibilitySignal/browser/media/format.mp3 (0.04 MB)
+File: //mnt/windows/Users/Theuri/AppData/Local/Programs/Microsoft VS Code/resources/app/out/vs/platform/accessibilitySignal/browser/media/progress.mp3 (0.03 MB)
+File: //mnt/windows/Users/Theuri/AppData/Local/Programs/Microsoft VS Code/resources/app/out/vs/platform/accessibilitySignal/browser/media/quickFixes.mp3 (0.04 MB)
+File: //mnt/windows/Users/Theuri/AppData/Local/Programs/Microsoft VS Code/resources/app/out/vs/platform/accessibilitySignal/browser/media/save.mp3 (0.03 MB)
+File: //mnt/windows/Users/Theuri/AppData/Local/Programs/Microsoft VS Code/resources/app/out/vs/platform/accessibilitySignal/browser/media/success.mp3 (0.02 MB)
+File: //mnt/windows/Users/Theuri/AppData/Local/Programs/Microsoft VS Code/resources/app/out/vs/platform/accessibilitySignal/browser/media/taskCompleted.mp3 (0.06 MB)
+File: //mnt/windows/Users/Theuri/AppData/Local/Programs/Microsoft VS Code/resources/app/out/vs/platform/accessibilitySignal/browser/media/taskFailed.mp3 (0.07 MB)
+File: //mnt/windows/Users/Theuri/AppData/Local/Programs/Microsoft VS Code/resources/app/out/vs/platform/accessibilitySignal/browser/media/terminalBell.mp3 (0.03 MB)
+File: //mnt/windows/Users/Theuri/AppData/Local/Programs/Microsoft VS Code/resources/app/out/vs/platform/accessibilitySignal/browser/media/voiceRecordingStarted.mp3 (0.03 MB)
+File: //mnt/windows/Users/Theuri/AppData/Local/Programs/Microsoft VS Code/resources/app/out/vs/platform/accessibilitySignal/browser/media/voiceRecordingStopped.mp3 (0.02 MB)
+File: //mnt/windows/Users/Theuri/AppData/Local/Programs/Microsoft VS Code/resources/app/out/vs/platform/accessibilitySignal/browser/media/warning.mp3 (0.04 MB)
+File: //mnt/windows/Users/Theuri/Music/banners_half_light_audio_mp3_71464.mp3 (2.84 MB)
+File: //mnt/windows/Users/Theuri/Music/beatrice_wangui_nikii_wonire_final_video_mp3_72362.mp3 (4.76 MB)
+File: //mnt/windows/Users/Theuri/Music/beatrice_wangui_nikii_wonire_final_video_mp3_72400.mp3 (4.76 MB)
+File: //mnt/windows/Users/Theuri/Music/bensoul_forget_you_acoustic_mp3_3421.mp3 (3.11 MB)
+File: //mnt/windows/Users/Theuri/Music/bensoul_ft_bien_extra_pressure_lyrics_video_your_killing_the_boy_of_course_mp3_53776.mp3 (2.67 MB)
+File: //mnt/windows/Users/Theuri/Music/billie_eilish_tv_official_lyric_video_mp3_49913.mp3 (4.29 MB)
+File: //mnt/windows/Users/Theuri/Music/birdy_+_rhodes_let_it_all_go_official_mp3_50081.mp3 (4.30 MB)
+File: //mnt/windows/Users/Theuri/Music/bon_iver_flume_mp3_49780.mp3 (1.25 MB)
+File: //mnt/windows/Users/Theuri/Music/breathe_mp3_59906.mp3 (10.57 MB)
+File: //mnt/windows/Users/Theuri/Music/burna_boy_alone_from_black_panther_wakanda_forever_mp3_67697.mp3 (3.42 MB)
+File: //mnt/windows/Users/Theuri/Music/celeste_strange_mp3_47635.mp3 (3.21 MB)
+File: //mnt/windows/Users/Theuri/Music/daughter_youth_lyrics_mp3_41795.mp3 (4.03 MB)
+File: //mnt/windows/Users/Theuri/Music/davido_kante_official_audio_ft._fave_mp3_21461.mp3 (2.99 MB)
+File: //mnt/windows/Users/Theuri/Music/gavin_james_always_lyric_video_mp3_19855.mp3 (4.00 MB)
+File: //mnt/windows/Users/Theuri/Music/girl_in_red_we_fell_in_love_in_october_mp3_62993.mp3 (2.86 MB)
+File: //mnt/windows/Users/Theuri/Music/gracie_abrams_rockland_official_lyric_video_mp3_10915.mp3 (3.24 MB)
+File: //mnt/windows/Users/Theuri/Music/guc_all_that_matters_lyrics_video_danzibaservices_mp3_36047.mp3 (5.54 MB)
+File: //mnt/windows/Users/Theuri/Music/harry_styles_as_it_was_official_video_mp3_51605.mp3 (2.53 MB)
+File: //mnt/windows/Users/Theuri/Music/her_s_what_once_was_official_audio_mp3_65643.mp3 (3.90 MB)
+File: //mnt/windows/Users/Theuri/Music/home_gabriel_aplin_lyrics_mp3_69165.mp3 (3.27 MB)
+File: //mnt/windows/Users/Theuri/Music/it_is_well_bethel_music_lyric_video_mp3_71031.mp3 (5.91 MB)
+File: //mnt/windows/Users/Theuri/Music/it_is_well_bethel_music_lyric_video_mp3_82686 (1).mp3 (4.43 MB)
+File: //mnt/windows/Users/Theuri/Music/it_is_well_kristene_dimarco_bethel_music_you_make_me_brave_mp3_43086.mp3 (5.84 MB)
+File: //mnt/windows/Users/Theuri/Music/lauren_daigle_love_like_this_audio_video_mp3_1290.mp3 (3.90 MB)
+File: //mnt/windows/Users/Theuri/Music/lauren_daigle_love_like_this_audio_video_mp3_33799.mp3 (3.90 MB)
+File: //mnt/windows/Users/Theuri/Music/lauren_daigle_loyal_lyric_video_mp3_60229.mp3 (4.08 MB)
+File: //mnt/windows/Users/Theuri/Music/lauren_daigle_rescue_audio_video_mp3_60073.mp3 (3.30 MB)
+File: //mnt/windows/Users/Theuri/Music/lauren_daigle_rescue_official_music_video_mp3_38486.mp3 (3.49 MB)
+File: //mnt/windows/Users/Theuri/Music/lauren_daigle_thank_god_i_do_official_music_video_mp3_60009.mp3 (4.40 MB)
+File: //mnt/windows/Users/Theuri/Music/lauren_daigle_thank_god_i_do_official_music_video_mp3_74574.mp3 (4.40 MB)
+File: //mnt/windows/Users/Theuri/Music/lauren_daigle_these_are_the_days_official_video_mp3_60059.mp3 (4.25 MB)
+File: //mnt/windows/Users/Theuri/Music/lauren_daigle_trust_in_you_mp3_21746.mp3 (3.41 MB)
+File: //mnt/windows/Users/Theuri/Music/lauren_daigle_trust_in_you_mp3_60142.mp3 (3.41 MB)
+File: //mnt/windows/Users/Theuri/Music/i_ll_keep_you_safe_mp3_9594.mp3 (4.14 MB)
+File: //mnt/windows/Users/Theuri/Music/j._cole_m_y_._l_i_f_e_feat._21_savage_morray_official_audio_mp3_50001.mp3 (3.34 MB)
+File: //mnt/windows/Users/Theuri/Music/jannet_otieno_ft._christina_shusho_napokea_kwako_official_video_mp3_55150.mp3 (4.50 MB)
+File: //mnt/windows/Users/Theuri/Music/je_te_laisserai_des_mots_mp3_43014.mp3 (2.46 MB)
+File: //mnt/windows/Users/Theuri/Music/jireh_elevation_worship_maverick_city_mp3_55708.mp3 (9.14 MB)
+File: //mnt/windows/Users/Theuri/Music/jome_cinnamon_mp3_10227.mp3 (3.12 MB)
+File: //mnt/windows/Users/Theuri/Music/joyce_wanjiru_niwe_nyama_ya_nyama_ciakwa_official_video_mp3_72612.mp3 (5.20 MB)
+File: //mnt/windows/Users/Theuri/Music/justin_timberlake_mirrors_mp3_16215.mp3 (7.64 MB)
+File: //mnt/windows/Users/Theuri/Music/k-ci_jojo_all_my_life_mp3_8167.mp3 (3.53 MB)
+File: //mnt/windows/Users/Theuri/Music/karwirwa_laura_ft_alice_kimanzi_ujulikane_skiza_9046027_mp3_51832.mp3 (3.90 MB)
+File: //mnt/windows/Users/Theuri/Music/keane_somewhere_only_we_know_lyrics_mp3_52307.mp3 (3.57 MB)
+File: //mnt/windows/Users/Theuri/Music/kenny_rogers_coward_of_the_county_audio_mp3_78682.mp3 (3.94 MB)
+File: //mnt/windows/Users/Theuri/Music/kenny_rogers_the_gambler_mp3_79365.mp3 (3.22 MB)
+File: //mnt/windows/Users/Theuri/Music/kinoti_nitangoja_official_video_._mp3_50683.mp3 (2.35 MB)
+File: //mnt/windows/Users/Theuri/Music/kirathimo_kingi_by_sammy_k_skiza_5968035_official_video_mp3_72096.mp3 (4.58 MB)
+File: //mnt/windows/Users/Theuri/Music/kiriro_giaku_sammy_irungu_amp_sammy_k_official_hd_video_sms_skiza_7386524_to_811_mp3_72168.mp3 (3.76 MB)
+File: //mnt/windows/Users/Theuri/Music/kirk_franklin_a_god_like_you_lyric_video_mp3_58474.mp3 (5.80 MB)
+File: //mnt/windows/Users/Theuri/Music/kirk_franklin_i_smile_mp3_58450.mp3 (4.57 MB)
+File: //mnt/windows/Users/Theuri/Music/kodaline_all_i_want_lyrics_mp3_71009.mp3 (4.87 MB)
+File: //mnt/windows/Users/Theuri/Music/lana_del_rey_margaret_audio_ft._bleachers_mp3_69365.mp3 (5.19 MB)
+File: //mnt/windows/Users/Theuri/Music/lauren_daigle_first_lyric_video_mp3_33806.mp3 (3.44 MB)
+File: //mnt/windows/Users/Theuri/Music/iyanya_one_side_lyrics_video_mp3_67498.mp3 (2.47 MB)
+File: //mnt/windows/Users/Theuri/Music/lauren_daigle_i_am_yours_acoustic_mp3_38565.mp3 (2.63 MB)
+File: //mnt/windows/Users/Theuri/Music/lauren_daigle_trust_in_you_mp3_67800.mp3 (3.41 MB)
+File: //mnt/windows/Users/Theuri/Music/Mdogo Mdogo by Isaac Kimani  - Love & Strings (@in_mic).mp3 (10.43 MB)
+File: //mnt/windows/Users/Theuri/Music/nf_mama_audio_mp3_48240.mp3 (3.18 MB)
+File: //mnt/windows/Users/Theuri/Music/omi_cheerleader_felix_jaehn_remix_official_video_mp3_22117.mp3 (2.89 MB)
+File: //mnt/windows/Users/Theuri/Music/rema_don_jazzy_no_pressure_official_music_video_mp3_15801.mp3 (2.55 MB)
+File: //mnt/windows/Users/Theuri/Music/sammy_k_ndigiriganirwo_official_video_mp3_27540.mp3 (3.76 MB)
+File: //mnt/windows/Users/Theuri/Music/sing_about_me_i_m_dying_of_thirst_mp3_67380.mp3 (11.04 MB)
+File: //mnt/windows/Users/Theuri/Music/tems_damages_official_video_mp3_21645.mp3 (3.06 MB)
+File: //mnt/windows/Users/Theuri/Music/ti_tuhu_skiza_7636507_mp3_57971.mp3 (3.55 MB)
+File: //mnt/windows/Users/Theuri/Music/victoria_orenze_be_lifted_cover_mp3_42421.mp3 (7.30 MB)
+File: //mnt/windows/Users/Theuri/Music/lauren_daigle_your_wings_audio_video_mp3_65242.mp3 (2.27 MB)
+File: //mnt/windows/Users/Theuri/Music/lauv_the_other_official_video_mp3_51906.mp3 (2.98 MB)
+File: //mnt/windows/Users/Theuri/Music/light_mp3_10072.mp3 (4.01 MB)
+File: //mnt/windows/Users/Theuri/Music/lord_send_revival_acoustic_hillsong_young_free_mp3_33839.mp3 (4.49 MB)
+File: //mnt/windows/Users/Theuri/Music/lost_frequencies_are_you_with_me_official_music_video_mp3_26467.mp3 (2.08 MB)
+File: //mnt/windows/Users/Theuri/Music/m1llionz_nairobi_vlog_music_video_mp3_40251 (1).mp3 (3.41 MB)
+File: //mnt/windows/Users/Theuri/Music/macklemore_glorious_lyrics_mp3_60449.mp3 (3.34 MB)
+File: //mnt/windows/Users/Theuri/Music/mallrat_the_chainsmokers_wish_on_an_eyelash_pt._2_lyrics_mp3_17466.mp3 (2.90 MB)
+File: //mnt/windows/Users/Theuri/Music/matthew_west_truth_be_told_official_music_video_mp3_57304.mp3 (3.47 MB)
+File: //mnt/windows/Users/Theuri/Music/matt_redman_10000_reasons_bless_the_lord_mp3_55757.mp3 (3.99 MB)
+File: //mnt/windows/Users/Theuri/Music/mbeu_ya_ngai_lucy_nganga_mp3_26625.mp3 (3.92 MB)
+File: //mnt/windows/Users/Theuri/Music/medicine_mp3_43733.mp3 (3.95 MB)
+File: //mnt/windows/Users/Theuri/Music/mercy_masika_nikupendeze_official_video_mp3_55168.mp3 (3.58 MB)
+File: //mnt/windows/Users/Theuri/Music/michael_schulte_falling_apart_lyrics_mp3_33670.mp3 (3.04 MB)
+File: //mnt/windows/Users/Theuri/Music/miia_dynasty_lyrics_mp3_34994.mp3 (3.43 MB)
+File: //mnt/windows/Users/Theuri/Music/million_years_ago_mp3_65532.mp3 (3.47 MB)
+File: //mnt/windows/Users/Theuri/Music/moses_bliss_daddy_wey_dey_pamper_ft._doris_joseph_special_version_official_video_mp3_60465.mp3 (4.36 MB)
+File: //mnt/windows/Users/Theuri/Music/mwenenyagabykwamerigiimp363597.mp3 (3.39 MB)
+File: //mnt/windows/Users/Theuri/Music/nairobi_mp3_50076.mp3 (3.36 MB)
+File: //mnt/windows/Users/Theuri/Music/new_west_those_eyes_lyrics_mp3_49988.mp3 (3.36 MB)
+File: //mnt/windows/Users/Theuri/Music/nf_lost_in_the_moment_audio_ft._jonathan_thulin_mp3_70699.mp3 (3.71 MB)
+File: //mnt/windows/Users/Theuri/Music/nf_oh_lord_audio_mp3_48267.mp3 (3.03 MB)
+File: //mnt/windows/Users/Theuri/Music/nf_running_lyrics_mp3_86107.mp3 (3.87 MB)
+File: //mnt/windows/Users/Theuri/Music/ngai_wa_ihinda_ringi_by_sammy_k_mp3_72049.mp3 (5.09 MB)
+File: //mnt/windows/Users/Theuri/Music/nightcore_please_don_t_say_you_love_me_mp3_51828.mp3 (2.75 MB)
+File: //mnt/windows/Users/Theuri/Music/nightcore_silence_female_version_mp3_4599.mp3 (3.26 MB)
+File: //mnt/windows/Users/Theuri/Music/nikita_kering_on_yah_intro_lyrics_mp3_19815.mp3 (2.84 MB)
+File: //mnt/windows/Users/Theuri/Music/no_glory_in_this_world_medley_live_mp3_48088.mp3 (9.17 MB)
+File: //mnt/windows/Users/Theuri/Music/no_longer_slaves_to_fear_tasha_cobbs_leonard_lyrics_video_mp3_54724.mp3 (5.72 MB)
+File: //mnt/windows/Users/Theuri/Music/ochiko_like_you_ft_kinoti_official_video_mp3_51122.mp3 (4.21 MB)
+File: //mnt/windows/Users/Theuri/Music/omah_lay_i_m_a_mess_official_music_video_mp3_30377.mp3 (2.46 MB)
+File: //mnt/windows/Users/Theuri/Music/only_wanna_sing_hillsong_young_free_mp3_21672.mp3 (2.96 MB)
+File: //mnt/windows/Users/Theuri/Music/o_come_to_the_altar_live_elevation_worship_mp3_60320.mp3 (5.40 MB)
+File: //mnt/windows/Users/Theuri/Music/phoebe_bridgers_funeral_official_lyric_video_mp3_10482.mp3 (3.55 MB)
+File: //mnt/windows/Users/Theuri/Music/phoebe_bridgers_i_know_the_end_mp3_54360.mp3 (5.27 MB)
+File: //mnt/windows/Users/Theuri/Music/pitbull_give_me_everything_lyrics_ft._ne-yo_afrojack_nayer_mp3_67462.mp3 (3.84 MB)
+File: //mnt/windows/Users/Theuri/Music/please_don_39_t_say_you_love_me_piano_version_mp3_65179.mp3 (3.38 MB)
+File: //mnt/windows/Users/Theuri/Music/prospa_ochimana_out_of_my_belly_ii_live_feat._theophilus_sunday_moses_akoh_mp3_61555.mp3 (13.19 MB)
+File: //mnt/windows/Users/Theuri/Music/punisher_mp3_30914.mp3 (2.89 MB)
+File: //mnt/windows/Users/Theuri/Music/reckless_love_official_lyric_video_cory_asbury_reckless_love_mp3_60426.mp3 (5.08 MB)
+File: //mnt/windows/Users/Theuri/Music/rhumba_lyrics_cover_wanavokali_new_mp3_30263.mp3 (3.49 MB)
+File: //mnt/windows/Users/Theuri/Music/rick_astley_never_gonna_give_you_up_mp3_52210.mp3 (3.24 MB)
+File: //mnt/windows/Users/Theuri/Music/riley_roth_when_god_made_you_my_mother_lyrics_i_don_t_ever_seem_to_tell_you_enough_mp3_21854.mp3 (3.21 MB)
+File: //mnt/windows/Users/Theuri/Music/rixton_me_and_my_broken_heart_official_video_mp3_36455.mp3 (2.98 MB)
+File: //mnt/windows/Users/Theuri/Music/rotimi_love_somebody_official_video_mp3_54842.mp3 (3.34 MB)
+File: //mnt/windows/Users/Theuri/Music/sadie_jean_wyd_now__official_music_video_mp3_33750.mp3 (2.25 MB)
+File: //mnt/windows/Users/Theuri/Music/sammy_irungu_kaundu_kega_official_video_mp3_72140.mp3 (3.95 MB)
+File: //mnt/windows/Users/Theuri/Music/sammy_irungu_kioneki_kia_jakubu_brand_new_music_video_2017_mp3_26119.mp3 (5.07 MB)
+File: //mnt/windows/Users/Theuri/Music/sammy_irungu_ndukanjethe_official_hd_video_mp3_72123.mp3 (4.84 MB)
+File: //mnt/windows/Users/Theuri/Music/sammy_k_ndigiriganirwo_official_video_mp3_72072.mp3 (3.76 MB)
+File: //mnt/windows/Users/Theuri/Music/sam_smith_i_m_not_the_only_one_mp3_50581.mp3 (4.27 MB)
+File: //mnt/windows/Users/Theuri/Music/sanaipei_tande_najuta_official_video_mp3_36688.mp3 (3.89 MB)
+File: //mnt/windows/Users/Theuri/Music/sauti_sol_feel_my_love_official_audio_mp3_59425.mp3 (3.63 MB)
+File: //mnt/windows/Users/Theuri/Music/sauti_sol_lil_mama_official_audio_mp3_48651.mp3 (3.43 MB)
+File: //mnt/windows/Users/Theuri/Music/seasons_lyric_video_hillsong_worship_mp3_69896.mp3 (4.19 MB)
+File: //mnt/windows/Users/Theuri/Music/set_a_fire_jesus_culture_w_lyrics_mp3_54782.mp3 (1.59 MB)
+File: //mnt/windows/Users/Theuri/Music/shania_twain_forever_and_for_always_mp3_8115.mp3 (3.76 MB)
+File: //mnt/windows/Users/Theuri/Music/sheena_munyeti_milele_official_music_video_mp3_53871.mp3 (3.52 MB)
+File: //mnt/windows/Users/Theuri/Music/sifu_bwana_khaligrah_ft_nyashisnki_official_video_khaligraph_jones_nyashinski_mp3_66851.mp3 (3.94 MB)
+File: //mnt/windows/Users/Theuri/Music/sleeping_at_last_north_lyrics_mp3_9571.mp3 (3.84 MB)
+File: //mnt/windows/Users/Theuri/Music/sleeping_at_last_quot_six_quot_official_lyric_video_mp3_66621.mp3 (3.89 MB)
+File: //mnt/windows/Users/Theuri/Music/sleeping_at_last_saturn_official_music_video_mp3_9541.mp3 (4.42 MB)
+File: //mnt/windows/Users/Theuri/Music/sleeping_at_last_two_official_lyric_video_mp3_9624.mp3 (3.97 MB)
+File: //mnt/windows/Users/Theuri/Music/so_will_i_100_billion_x_hillsong_worship_mp3_14048.mp3 (6.45 MB)
+File: //mnt/windows/Users/Theuri/Music/sufjan_stevens_chicago_mp3_49839.mp3 (5.57 MB)
+File: //mnt/windows/Users/Theuri/Music/sufjan_stevens_mystery_of_love_from_call_me_by_your_name_soundtrack_official_audio_mp3_49815.mp3 (3.82 MB)
+File: //mnt/windows/Users/Theuri/Music/tai_verdes_how_deep__live_from_australia_mp3_10591.mp3 (2.75 MB)
+File: //mnt/windows/Users/Theuri/Music/tasha_cobbs_leonard_your_spirit_ft._kierra_sheard_mp3_58379.mp3 (7.02 MB)
+File: //mnt/windows/Users/Theuri/Music/tate_mcrae_that_way_lyrics_mp3_51748.mp3 (2.66 MB)
+File: //mnt/windows/Users/Theuri/Music/tems_crazy_tings_official_video_mp3_21535.mp3 (2.79 MB)
+File: //mnt/windows/Users/Theuri/Music/tems_free_mind_mp3_21573.mp3 (3.78 MB)
+File: //mnt/windows/Users/Theuri/Music/tems_love_me_jeje_official_video_mp3_21519.mp3 (2.73 MB)
+File: //mnt/windows/Users/Theuri/Music/tems_me_u_official_video_mp3_21631.mp3 (3.11 MB)
+File: //mnt/windows/Users/Theuri/Music/tems_the_key_official_video_mp3_21613.mp3 (2.76 MB)
+File: //mnt/windows/Users/Theuri/Music/tems_try_me_official_video_mp3_21556.mp3 (3.39 MB)
+File: //mnt/windows/Users/Theuri/Music/that_home_mp3_33720.mp3 (1.59 MB)
+File: //mnt/windows/Users/Theuri/Music/the_paper_kites_bloom_mp3_49704.mp3 (3.26 MB)
+File: //mnt/windows/Users/Theuri/Music/the_script_superheroes_mp3_27431.mp3 (4.17 MB)
+File: //mnt/windows/Users/Theuri/Music/tiesto_10_35_feat._tate_mcrae_official_music_video_mp3_53319.mp3 (2.77 MB)
+File: //mnt/windows/Users/Theuri/Music/timi_dakolo_everything_amen_official_video_mp3_11349.mp3 (4.02 MB)
+File: //mnt/windows/Users/Theuri/Music/tom_odell_another_love_mp3_6626.mp3 (3.78 MB)
+File: //mnt/windows/Users/Theuri/Music/tom_walker_leave_a_light_on_official_video_mp3_41455.mp3 (3.18 MB)
+File: //mnt/windows/Users/Theuri/Music/tonight_best_you_ever_had_with_movie_footage_mp3_52428.mp3 (3.73 MB)
+File: //mnt/windows/Users/Theuri/Music/to_my_knees_live_hillsong_young_free_mp3_21650.mp3 (7.18 MB)
+File: //mnt/windows/Users/Theuri/Music/travis_greene_made_a_way_official_video_mp3_5844.mp3 (4.12 MB)
+File: //mnt/windows/Users/Theuri/Music/tubidy_mp3_81657.mp3 (3.89 MB)
+File: //mnt/windows/Users/Theuri/Music/umeliruhusu_jaribu_linipate_linijenge_by_minister_thomas_lyical_video_mp3_37469.mp3 (6.91 MB)
+File: //mnt/windows/Users/Theuri/Music/utukufu_by_ali_mukhwana_utukufu_alimukhwana_skiza_tune_dial_811_279_ngoma_mp3_16375.mp3 (4.32 MB)
+File: //mnt/windows/Users/Theuri/Music/utukufu_by_ali_mukhwana_utukufu_alimukhwana_skiza_tune_dial_811_279_ngoma_mp3_54792.mp3 (4.32 MB)
+File: //mnt/windows/Users/Theuri/Music/vancouver_sleep_clinic_middle_of_nowhere_audio_mp3_10943.mp3 (6.15 MB)
+File: //mnt/windows/Users/Theuri/Music/wangui_mutirima_wakwa_nduru_cover_by_wanjine_mp3_58267.mp3 (2.34 MB)
+File: //mnt/windows/Users/Theuri/Music/wanjine_kirorerwa_official_music_video_mp3_52149.mp3 (3.40 MB)
+File: //mnt/windows/Users/Theuri/Music/wanjira_mathai_apewe_sifa_cover_mp3_16451.mp3 (5.20 MB)
+File: //mnt/windows/Users/Theuri/Music/ward_thomas_carry_you_home_mp3_51886.mp3 (3.29 MB)
+File: //mnt/windows/Users/Theuri/Music/we_messed_up_generation_tate_mcrae_lyrics_mp3_51678.mp3 (2.17 MB)
+File: //mnt/windows/Users/Theuri/Music/what_a_beautiful_name_hillsong_worship_mp3_5887.mp3 (5.23 MB)
+File: //mnt/windows/Users/Theuri/Music/yadah_beyond_me_lyrics_video_mp3_42920.mp3 (6.64 MB)
+File: //mnt/windows/Users/Theuri/Music/yoke_lore_beige_mp3_51547.mp3 (3.33 MB)
+File: //mnt/windows/Users/Theuri/Music/you_are_yahweh_by_steve_crown_lyrical_video_mp3_32242.mp3 (4.51 MB)
+File: //mnt/windows/Users/Theuri/Music/you_re_still_the_one_shania_twain_acoustic_cover_by_will_gittens_mp3_42672.mp3 (2.24 MB)
+File: //mnt/windows/Windows/ImmersiveControlPanel/SystemSettings/Assets/Aria.mp3 (0.11 MB)
+File: //mnt/windows/Windows/ImmersiveControlPanel/SystemSettings/Assets/Guy.mp3 (0.10 MB)
+File: //mnt/windows/Windows/ImmersiveControlPanel/SystemSettings/Assets/Jenny.mp3 (0.10 MB)
+File: //mnt/windows/Windows/WinSxS/amd64_microsoft-windows-i..ntrolpanel.appxmain_31bf3856ad364e35_10.0.22621.4111_none_fac525ae12856e35/Aria.mp3 (0.11 MB)
+File: //mnt/windows/Windows/WinSxS/amd64_microsoft-windows-i..ntrolpanel.appxmain_31bf3856ad364e35_10.0.22621.4111_none_fac525ae12856e35/Guy.mp3 (0.10 MB)
+File: //mnt/windows/Windows/WinSxS/amd64_microsoft-windows-i..ntrolpanel.appxmain_31bf3856ad364e35_10.0.22621.4111_none_fac525ae12856e35/Jenny.mp3 (0.10 MB)
+File: //mnt/windows/Windows/WinSxS/amd64_microsoft-windows-i..ntrolpanel.appxmain_31bf3856ad364e35_10.0.22621.4249_none_fabca060128ba333/Aria.mp3 (0.11 MB)
+File: //mnt/windows/Windows/WinSxS/amd64_microsoft-windows-i..ntrolpanel.appxmain_31bf3856ad364e35_10.0.22621.4249_none_fabca060128ba333/Guy.mp3 (0.10 MB)
+File: //mnt/windows/Windows/WinSxS/amd64_microsoft-windows-i..ntrolpanel.appxmain_31bf3856ad364e35_10.0.22621.4249_none_fabca060128ba333/Jenny.mp3 (0.10 MB)
+File: //mnt/windows/Windows/WinSxS/amd64_microsoft-windows-i..ntrolpanel.appxmain_31bf3856ad364e35_10.0.22621.457_none_7ccf5cf4602b0786/Aria.mp3 (0.11 MB)
+File: //mnt/windows/Windows/WinSxS/amd64_microsoft-windows-i..ntrolpanel.appxmain_31bf3856ad364e35_10.0.22621.457_none_7ccf5cf4602b0786/Guy.mp3 (0.10 MB)
+File: //mnt/windows/Windows/WinSxS/amd64_microsoft-windows-i..ntrolpanel.appxmain_31bf3856ad364e35_10.0.22621.457_none_7ccf5cf4602b0786/Jenny.mp3 (0.10 MB)
+File: //mnt/windows/Windows.old/Users/THEURI/AppData/Local/Programs/Microsoft VS Code/resources/app/out/vs/platform/accessibilitySignal/browser/media/break.mp3 (0.04 MB)
+File: //mnt/windows/Windows.old/Users/THEURI/AppData/Local/Programs/Microsoft VS Code/resources/app/out/vs/platform/accessibilitySignal/browser/media/chatRequestSent.mp3 (0.04 MB)
+File: //mnt/windows/Windows.old/Users/THEURI/AppData/Local/Programs/Microsoft VS Code/resources/app/out/vs/platform/accessibilitySignal/browser/media/chatResponseReceived1.mp3 (0.03 MB)
+File: //mnt/windows/Windows.old/Users/THEURI/AppData/Local/Programs/Microsoft VS Code/resources/app/out/vs/platform/accessibilitySignal/browser/media/chatResponseReceived2.mp3 (0.03 MB)
+File: //mnt/windows/Windows.old/Users/THEURI/AppData/Local/Programs/Microsoft VS Code/resources/app/out/vs/platform/accessibilitySignal/browser/media/chatResponseReceived3.mp3 (0.03 MB)
+File: //mnt/windows/Windows.old/Users/THEURI/AppData/Local/Programs/Microsoft VS Code/resources/app/out/vs/platform/accessibilitySignal/browser/media/chatResponseReceived4.mp3 (0.03 MB)
+File: //mnt/windows/Windows.old/Users/THEURI/AppData/Local/Programs/Microsoft VS Code/resources/app/out/vs/platform/accessibilitySignal/browser/media/clear.mp3 (0.03 MB)
+File: //mnt/windows/Windows.old/Users/THEURI/AppData/Local/Programs/Microsoft VS Code/resources/app/out/vs/platform/accessibilitySignal/browser/media/diffLineDeleted.mp3 (0.04 MB)
+File: //mnt/windows/Windows.old/Users/THEURI/AppData/Local/Programs/Microsoft VS Code/resources/app/out/vs/platform/accessibilitySignal/browser/media/diffLineInserted.mp3 (0.04 MB)
+File: //mnt/windows/Windows.old/Users/THEURI/AppData/Local/Programs/Microsoft VS Code/resources/app/out/vs/platform/accessibilitySignal/browser/media/diffLineModified.mp3 (0.04 MB)
+File: //mnt/windows/Windows.old/Users/THEURI/AppData/Local/Programs/Microsoft VS Code/resources/app/out/vs/platform/accessibilitySignal/browser/media/error.mp3 (0.04 MB)
+File: //mnt/windows/Windows.old/Users/THEURI/AppData/Local/Programs/Microsoft VS Code/resources/app/out/vs/platform/accessibilitySignal/browser/media/foldedAreas.mp3 (0.04 MB)
+File: //mnt/windows/Windows.old/Users/THEURI/AppData/Local/Programs/Microsoft VS Code/resources/app/out/vs/platform/accessibilitySignal/browser/media/format.mp3 (0.04 MB)
+File: //mnt/windows/Windows.old/Users/THEURI/AppData/Local/Programs/Microsoft VS Code/resources/app/out/vs/platform/accessibilitySignal/browser/media/progress.mp3 (0.03 MB)
+File: //mnt/windows/Windows.old/Users/THEURI/AppData/Local/Programs/Microsoft VS Code/resources/app/out/vs/platform/accessibilitySignal/browser/media/quickFixes.mp3 (0.04 MB)
+File: //mnt/windows/Windows.old/Users/THEURI/AppData/Local/Programs/Microsoft VS Code/resources/app/out/vs/platform/accessibilitySignal/browser/media/save.mp3 (0.03 MB)
+File: //mnt/windows/Windows.old/Users/THEURI/AppData/Local/Programs/Microsoft VS Code/resources/app/out/vs/platform/accessibilitySignal/browser/media/success.mp3 (0.02 MB)
+File: //mnt/windows/Windows.old/Users/THEURI/AppData/Local/Programs/Microsoft VS Code/resources/app/out/vs/platform/accessibilitySignal/browser/media/taskCompleted.mp3 (0.06 MB)
+File: //mnt/windows/Windows.old/Users/THEURI/AppData/Local/Programs/Microsoft VS Code/resources/app/out/vs/platform/accessibilitySignal/browser/media/taskFailed.mp3 (0.07 MB)
+File: //mnt/windows/Windows.old/Users/THEURI/AppData/Local/Programs/Microsoft VS Code/resources/app/out/vs/platform/accessibilitySignal/browser/media/terminalBell.mp3 (0.03 MB)
+File: //mnt/windows/Windows.old/Users/THEURI/AppData/Local/Programs/Microsoft VS Code/resources/app/out/vs/platform/accessibilitySignal/browser/media/voiceRecordingStarted.mp3 (0.03 MB)
+File: //mnt/windows/Windows.old/Users/THEURI/AppData/Local/Programs/Microsoft VS Code/resources/app/out/vs/platform/accessibilitySignal/browser/media/voiceRecordingStopped.mp3 (0.02 MB)
+File: //mnt/windows/Windows.old/Users/THEURI/AppData/Local/Programs/Microsoft VS Code/resources/app/out/vs/platform/accessibilitySignal/browser/media/warning.mp3 (0.04 MB)
+File: //usr/share/javascript/mathjax/unpacked/extensions/a11y/invalid_keypress.mp3 (0.01 MB)
+File: //usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/error.mp3 (0.04 MB)
+File: //usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/chatResponseReceived1.mp3 (0.03 MB)
+File: //usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/progress.mp3 (0.03 MB)
+File: //usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/terminalBell.mp3 (0.03 MB)
+File: //usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/save.mp3 (0.03 MB)
+File: //usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/break.mp3 (0.04 MB)
+File: //usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/chatResponseReceived4.mp3 (0.03 MB)
+File: //usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/success.mp3 (0.02 MB)
+File: //usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/diffLineModified.mp3 (0.04 MB)
+File: //usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/format.mp3 (0.04 MB)
+File: //usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/diffLineDeleted.mp3 (0.04 MB)
+File: //usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/clear.mp3 (0.03 MB)
+File: //usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/taskFailed.mp3 (0.07 MB)
+File: //usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/chatResponseReceived3.mp3 (0.03 MB)
+File: //usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/quickFixes.mp3 (0.04 MB)
+File: //usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/voiceRecordingStopped.mp3 (0.02 MB)
+File: //usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/warning.mp3 (0.04 MB)
+File: //usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/foldedAreas.mp3 (0.04 MB)
+File: //usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/chatResponseReceived2.mp3 (0.03 MB)
+File: //usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/voiceRecordingStarted.mp3 (0.03 MB)
+File: //usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/chatRequestSent.mp3 (0.04 MB)
+File: //usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/diffLineInserted.mp3 (0.04 MB)
+File: //usr/share/code/resources/app/out/vs/platform/accessibilitySignal/browser/media/taskCompleted.mp3 (0.06 MB)
