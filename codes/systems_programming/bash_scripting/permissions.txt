@@ -1,0 +1,17 @@
+abc abc abc 
+the first triad is for user 
+second triad is for group
+third triad is for others 
+
+so sth like 777 means write execute and read rights/permissions for user, group and others 
+
+0 = nothing
+1 = execute
+2 = write
+3 = 2+1 = write and execute
+4 = read
+5 = 4+2 = read and execute
+6 = 4+2 = read and write 
+7 = 4+2+1 = read, write and execute
+
+

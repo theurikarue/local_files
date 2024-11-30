@@ -1,0 +1,202 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+#define MAX_STACK_SIZE 1000000  // Maximum allowed stack size
+#define SHRINK_THRESHOLD 0.25   // Shrink when stack is 25% full
+#define GROWTH_FACTOR 2         // Double size when full
+#define SHRINK_FACTOR 0.5      // Halve size when under threshold
+
+typedef struct {
+    int *data;
+    int top;
+    int maxSize;
+    int initialSize;  // Store initial size for shrinking reference
+} Stack;
+
+// Error handling enum
+typedef enum {
+    STACK_SUCCESS,
+    STACK_OVERFLOW,
+    STACK_UNDERFLOW,
+    STACK_MEMORY_ERROR
+} StackError;
+
+/**
+ * Create a new stack with error handling
+ */
+Stack* createStack(int initialSize, StackError* error) {
+    Stack* stack = (Stack*)malloc(sizeof(Stack));
+    if (!stack) {
+        if (error) *error = STACK_MEMORY_ERROR;
+        return NULL;
+    }
+
+    stack->data = (int*)malloc(initialSize * sizeof(int));
+    if (!stack->data) {
+        free(stack);
+        if (error) *error = STACK_MEMORY_ERROR;
+        return NULL;
+    }
+
+    stack->top = -1;
+    stack->maxSize = initialSize;
+    stack->initialSize = initialSize;
+    if (error) *error = STACK_SUCCESS;
+    return stack;
+}
+
+int isEmpty(Stack* stack) {
+    return stack->top == -1;
+}
+
+/**
+ * Check if the stack should be resized.
+ * @param stack The stack to check.
+ * @param growth The growth factor (1 for grow, -1 for shrink).
+ * @return 1 if the stack should be resized, 0 otherwise.
+ */
+int shouldResize(Stack* stack, int growth) {
+    if (growth > 0) {
+        // Check for overflow when growing
+        return (stack->top == stack->maxSize - 1) && 
+               (stack->maxSize * GROWTH_FACTOR <= MAX_STACK_SIZE);
+    } else {
+        // Check for shrinking condition
+        float fillPercentage = (float)(stack->top + 1) / stack->maxSize;
+        return (fillPercentage < SHRINK_THRESHOLD) && 
+               (stack->maxSize > stack->initialSize);
+    }
+}
+
+
+StackError resize(Stack* stack, int newSize) {
+    if (newSize > MAX_STACK_SIZE || newSize < stack->initialSize) {
+        return STACK_MEMORY_ERROR;
+    }
+
+    int* newData = (int*)realloc(stack->data, newSize * sizeof(int));
+    if (!newData) {
+        return STACK_MEMORY_ERROR;
+    }
+
+    stack->data = newData;
+    stack->maxSize = newSize;
+    printf("Stack resized to %d elements\n", newSize);
+    return STACK_SUCCESS;
+}
+
+
+StackError push(Stack* stack, int value) {
+    if (!stack) return STACK_MEMORY_ERROR;
+
+    if (stack->top == stack->maxSize - 1) {
+        if (stack->maxSize >= MAX_STACK_SIZE) {
+            return STACK_OVERFLOW;
+        }
+        
+        int newSize = stack->maxSize * GROWTH_FACTOR;
+        if (newSize > MAX_STACK_SIZE) {
+            newSize = MAX_STACK_SIZE;
+        }
+        
+        StackError resizeError = resize(stack, newSize);
+        if (resizeError != STACK_SUCCESS) {
+            return resizeError;
+        }
+    }
+
+    stack->data[++stack->top] = value;
+    return STACK_SUCCESS;
+}
+
+
+StackError pop(Stack* stack, int* value) {
+    if (!stack || !value) return STACK_MEMORY_ERROR;
+    if (isEmpty(stack)) return STACK_UNDERFLOW;
+
+    *value = stack->data[stack->top--];
+
+    // Check if we should shrink the stack
+    if (shouldResize(stack, -1)) {
+        int newSize = (int)(stack->maxSize * SHRINK_FACTOR);
+        if (newSize < stack->initialSize) {
+            newSize = stack->initialSize;
+        }
+        resize(stack, newSize);
+    }
+
+    return STACK_SUCCESS;
+}
+
+/**
+ * Free the stack and its data.
+ */
+void freeStack(Stack** stack) {
+    if (stack && *stack) {
+        free((*stack)->data);
+        free(*stack);
+        *stack = NULL;  // Prevent use after free
+    }
+}
+
+/**
+ * Utility function to print stack status
+ */
+void printStackStatus(Stack* stack) {
+    printf("\nStack Status:\n");
+    printf("Current size: %d\n", stack->maxSize);
+    printf("Elements: %d\n", stack->top + 1);
+    printf("Fill percentage: %.2f%%\n", 
+           ((float)(stack->top + 1) / stack->maxSize) * 100);
+}
+
+// Error message utility
+const char* getErrorMessage(StackError error) {
+    switch(error) {
+        case STACK_SUCCESS: return "Success";
+        case STACK_OVERFLOW: return "Stack overflow";
+        case STACK_UNDERFLOW: return "Stack underflow";
+        case STACK_MEMORY_ERROR: return "Memory allocation error";
+        default: return "Unknown error";
+    }
+}
+
+int main() {
+    StackError error;
+    Stack* stack = createStack(5, &error);
+    if (!stack) {
+        printf("Failed to create stack: %s\n", getErrorMessage(error));
+        return 1;
+    }
+
+    // Test pushing elements
+    printf("Pushing elements...\n");
+    for (int i = 1; i <= 3; i++) {
+        error = push(stack, i * 10);
+        if (error != STACK_SUCCESS) {
+            printf("Push failed: %s\n", getErrorMessage(error));
+            break;
+        }
+        printStackStatus(stack);
+    }
+
+    // Test popping elements
+    printf("\nPopping elements...\n");
+    int value;
+    while ((error = pop(stack, &value)) == STACK_SUCCESS) {
+        printf("Popped: %d\n", value);
+        printStackStatus(stack);
+    }
+
+    if (error != STACK_UNDERFLOW) {
+        printf("Unexpected error while popping: %s\n", getErrorMessage(error));
+    }
+
+    // Clean up
+    freeStack(&stack);
+    if (stack == NULL) {
+        printf("Stack successfully freed\n");
+    }
+
+    return 0;
+}

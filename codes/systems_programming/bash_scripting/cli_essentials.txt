@@ -1,0 +1,14 @@
+cd
+pwd
+ls
+mv
+rm
+echo
+cat
+grep
+mkdir
+cp
+chmod
+touch
+less
+man+help
