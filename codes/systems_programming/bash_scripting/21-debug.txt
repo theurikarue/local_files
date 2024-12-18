@@ -1,0 +1,5 @@
+use the following 
+
+bash -x ./file_name.sh - shows lines being executed 
+
+or #!/bin/bash -x {place the -x after shebang line}

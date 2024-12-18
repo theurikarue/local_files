@@ -1,0 +1,6 @@
+root=collegefortheuri@gmail.com
+mailhub=smtp.gmail.com:587
+AuthUser=collegefortheuri@gmail.com
+AuthPass=
+UseSTARTTLS=yes
+

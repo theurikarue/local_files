@@ -1,0 +1,4 @@
+    PID TTY          TIME CMD
+   5329 pts/2    00:00:00 zsh
+   7126 pts/2    00:00:00 7-output.sh
+   7129 pts/2    00:00:00 ps
