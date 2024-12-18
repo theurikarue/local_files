@@ -1,0 +1,54 @@
+<metadataResponse>
+  <version>3.0</version>
+  <timestamp>2018-10-16T21:32:06.000000</timestamp>
+  <bulletin>
+    <id>lsu-intel-nvme-vmd-plugin-1.0.0-4vmw.680.0.0.00000</id>
+    <vendor>VMware</vendor>
+    <summary>Intel VMD LSU Management Plugin</summary>
+    <severity>general</severity>
+    <category>general</category>
+    <urgency>general</urgency>
+    <releaseType>extension</releaseType>
+    <description>Intel VMD LSU Management Plugin</description>
+    <kbUrl></kbUrl>
+    <contact></contact>
+    <releaseDate>2018-10-16T21:32:06+00:00</releaseDate>
+    <platforms>
+      <softwarePlatform locale="" version="6.5.0" productLineID="embeddedEsx"/>
+    </platforms>
+    <vibList>
+      <vib>
+        <vibVersion>1.4.5</vibVersion>
+        <vibID>VMware_bootbank_lsu-intel-nvme-vmd-plugin_1.0.0-4vmw.680.0.0.00000</vibID>
+        <name>lsu-intel-nvme-vmd-plugin</name>
+        <version>1.0.0-4vmw.680.0.0.00000</version>
+        <vendor>VMware</vendor>
+        <vibType>bootbank</vibType>
+        <summary>Intel VMD LSU Management Plugin</summary>
+        <systemReqs>
+          <maintenance-mode>false</maintenance-mode>
+          <swPlatform locale="" version="6.5.0" productLineID="embeddedEsx"/>
+        </systemReqs>
+        <relationships>
+          <depends><constraint name="vmkapi_2_4_0_0"/><constraint name="libvmkuser-6.5.0-1"/></depends><conflicts/><replaces/><provides/><compatibleWith/>
+        </relationships>
+        <postInstall>
+          <rebootRequired>true</rebootRequired>
+          <hostdRestart>false</hostdRestart>
+        </postInstall>
+        <softwareTags>
+
+        </softwareTags>
+        <vibFile>
+          <sourceUrl></sourceUrl>
+          <relativePath>lsu-intel-nvme-vmd-plugin-1.0.0-4vmw.680.0.0.00000.i386.vib</relativePath>
+          <packedSize>13878</packedSize>
+          <checksum>
+            <checksumType>sha-256</checksumType>
+            <checksum>8aa4801df360abd43b08d7f44d84ba7e7c572da413c0050e81758f8967a86685</checksum>
+          </checksum>
+        </vibFile>
+      </vib>
+    </vibList>
+  </bulletin>
+</metadataResponse>
