@@ -26,7 +26,9 @@ void find_mp3_files(const char *dir, FILE *output_file){
         //create full path
         snprintf(path,sizeof(path), "%s/%s", dir, entry->d_name);
 
-        if(entry->d_type == DT_DIR){
+        if(entry->d_type == DT_DIR){Write a C program that search and list the name and sizes of all files with extension .mp3 in  your drive C .The program should further print a notepad of the output in C saved with Yourname.txt
+*/
+
             find_mp3_files(path,output_file);
         }else{
             //Check if file ends with .mp3

@@ -1,0 +1,15 @@
+total 48
+drwxrwxr-x 2 theuri theuri 4096 Jan 19 05:54 .
+drwxrwxr-x 4 theuri theuri 4096 Jan 18 08:28 ..
+-rw-rw-r-- 1 theuri theuri  729 Jan 18 10:26 1-intro.bash
+-rwxrwxr-x 1 theuri theuri  674 Jan 19 05:58 2-redirect.bash
+-rw-rw-r-- 1 theuri theuri  162 Jan 19 05:56 2a-redirect_cat.txt
+-rw-rw-r-- 1 theuri theuri  171 Jan 19 05:59 2b-redirect.txt
+-rwxrwxr-x 1 theuri theuri  320 Jan 19 05:59 3-here-doc-delimiter.bash
+-rwxrwxr-x 1 theuri theuri 1673 Jan 19 06:03 4-conditional_statements.bash
+-rwxrwxr-x 1 theuri theuri  794 Jan 18 10:37 5-loops.bash
+-rwxrwxr-x 1 theuri theuri  424 Jan 19 06:07 6-script_inputs.sh
+-rwxrwxr-x 1 theuri theuri  332 Jan 19 06:11 7-script_output.sh
+-rw-rw-r-- 1 theuri theuri  862 Jan 19 06:10 7a-output.txt
+-rw-rw-r-- 1 theuri theuri    0 Jan 19 06:10 7b-error.txt
+-rw-rw-r-- 1 theuri theuri    0 Jan 19 06:11 7c-output_both.txt

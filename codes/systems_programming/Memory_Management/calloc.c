@@ -14,10 +14,10 @@ int main(){
     ptr = (int*)calloc(n, sizeof(int));
 
     // //Taking input
-    // printf("Enter the elements in their respective order: ");
-    // for (i = 0; i < n; i++){
-    //     scanf("%d", ptr + i);
-    // }
+    printf("Enter the elements in their respective order: ");
+    for (i = 0; i < n; i++){
+        scanf("%d", ptr + i);
+    }
     
     //printing the elements
     printf("The elements are: ");

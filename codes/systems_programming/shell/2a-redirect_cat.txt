@@ -1,0 +1,4 @@
+Hello World! ... This is my first line
+This is to show you an output to an external file 
+This is the 3rd line 
+It show how to append using double angle brackets

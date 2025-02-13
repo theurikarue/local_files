@@ -1,0 +1,5 @@
+Hello World! ... This is an output to an external file using echo command.
+I have now appended this line
+4. I have now appended this line
+4. I have now appended this line
+I am appending this line from script 14 on file manipulations
